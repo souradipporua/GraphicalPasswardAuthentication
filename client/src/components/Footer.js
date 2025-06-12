@@ -51,8 +51,7 @@ export default function Footer(props) {
                 </div>
 
                 <div className="hidden sm:block text-white mt-6">
-                    <p className="font-['Space_Mono'] text-xl">Join Our Monthly Digest</p>
-                    <p className="text-gray-300 font-['Work_Sans'] mt-4">Get Exclusive Promotions & Updates.</p>
+               
 
                     <div className="flex font-['Work_Sans']">
                         <input value={email} onChange={handleChange} className="text-black mt-4 rounded-lg px-4 z-10" placeholder="Your Email"/>
@@ -63,7 +62,7 @@ export default function Footer(props) {
                 </div>
             </div>
             <hr className="rounded-full border-gray-300 border-1 bg-gray-200 h-px mt-8 mx-auto w-3/4"/>
-            <p className="mt-2 text-[#9b9b9b] sm:text-md text-sm text-center pb-4">github.com/prathamesh-a</p>
+            <p className="mt-2 text-[#9b9b9b] sm:text-md text-sm text-center pb-4">github.com/souradipporua/GraphicalPasswardAuthentication</p>
         </div>
 
     )
