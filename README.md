@@ -13,39 +13,8 @@ Graphical Password Authentication is a GitHub project that provides an additiona
 ## Screenshots
 To view screenshots go to <a href="https://github.com/prathamesh-a/graphical-password-authentication/blob/main/SCREENSHOTS.md">SCREENSHOTS</a>.
 
-## Installation
-To install this project, follow these steps:<br>
 
-<p>1. Clone the repository to your local machine.</p>
 
-```bash
-git clone https://github.com/prathamesh-a/graphical-password-authentication.git
-```
 
-<p>2. Navigate to the root folder of the project.</p>
-
-```bash
-git clone https://github.com/prathamesh-a/graphical-password-authentication.git
-```
-
-<p>3. <a href="https://github.com/prathamesh-a/graphical-password-authentication/blob/main/server/README.md#installation">Installation of Server</a></p>
-<p>4. <a href="https://github.com/prathamesh-a/graphical-password-authentication/blob/main/client/README.md#installation">Installation of Client</a></p>
-
-## Usage
-To use the application, follow these steps:
-
-1. <a href="https://github.com/prathamesh-a/graphical-password-authentication/tree/main/server#usage">Setup Server</a>
-2. <a href="https://github.com/prathamesh-a/graphical-password-authentication/tree/main/client#usage">Setup Client</a>
-
-## Contributing
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository to your own account.
-2. Create a new branch from the **`develop`** branch.
-3. Make your changes and test them thoroughly.
-4. Submit a pull request to the **`develop`** branch.
-
-## License
-This project is licensed under the MIT License. See the <a href="https://github.com/prathamesh-a/graphical-password-authentication/blob/main/LICENSE">LICENSE</a> file for details.
 # GraphicalPasswardAuthentication
 # GraphicalPasswardAuthentication
