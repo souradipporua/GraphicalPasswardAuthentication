@@ -41,7 +41,7 @@ export default function Footer(props) {
                         <img className="" width="24px" src="https://img.icons8.com/material-rounded/48/A259FF/cyber-security.png" alt=""/>
                         <p className="sm:text-xl text-white ml-2 font-['Space_Mono']">Graphical Password Auth</p>
                     </div>
-                    <p className="text-gray-300 font-['Work_Sans'] mt-2 sm:mt-4">A Novel Approach For Security</p>
+                    
                 </div>
 
                 <div className="ml-4 sm:ml-0 text-white mt-6">
