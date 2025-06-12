@@ -15,6 +15,3 @@ To view screenshots go to <a href="https://github.com/prathamesh-a/graphical-pas
 
 
 
-
-# GraphicalPasswardAuthentication
-# GraphicalPasswardAuthentication
